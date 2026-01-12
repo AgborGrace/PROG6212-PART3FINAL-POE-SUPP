@@ -1,0 +1,1 @@
+namespace CMCS_POE.Models { public class SupportingDocument { public string FileName {get;set;} } }

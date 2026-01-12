@@ -1,0 +1,1 @@
+namespace CMCS_POE.Models { public class Lecturer { public string Name {get;set;} } }
