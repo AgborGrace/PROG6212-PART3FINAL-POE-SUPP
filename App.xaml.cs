@@ -1,0 +1,1 @@
+namespace CMCS_POE { public partial class App : System.Windows.Application {} }

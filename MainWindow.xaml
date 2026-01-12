@@ -1,0 +1,9 @@
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    Title="CMCS Login" Height="300" Width="400">
+    <StackPanel Margin="20">
+      <Button Content="Lecturer" Click="Lecturer"/>
+      <Button Content="Coordinator" Click="Coordinator"/>
+      <Button Content="Manager" Click="Manager"/>
+      <Button Content="HR" Click="HR"/>
+    </StackPanel>
+</Window>
