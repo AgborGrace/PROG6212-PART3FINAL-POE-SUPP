@@ -1,0 +1,1 @@
+namespace CMCS_POE.Views { public partial class LecturerDashboard:System.Windows.Window { public LecturerDashboard(){InitializeComponent();} } }

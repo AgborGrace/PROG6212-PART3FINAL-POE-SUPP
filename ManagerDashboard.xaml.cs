@@ -1,0 +1,1 @@
+namespace CMCS_POE.Views { public partial class ManagerDashboard:System.Windows.Window { public ManagerDashboard(){InitializeComponent();} } }

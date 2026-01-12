@@ -1,0 +1,1 @@
+namespace CMCS_POE.Views { public partial class HRDashboard:System.Windows.Window { public HRDashboard(){InitializeComponent();} } }

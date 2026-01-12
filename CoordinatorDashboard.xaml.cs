@@ -1,0 +1,1 @@
+namespace CMCS_POE.Views { public partial class CoordinatorDashboard:System.Windows.Window { public CoordinatorDashboard(){InitializeComponent();} } }

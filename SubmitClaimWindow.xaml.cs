@@ -1,0 +1,1 @@
+namespace CMCS_POE.Views { public partial class SubmitClaimWindow:System.Windows.Window { public SubmitClaimWindow(){InitializeComponent();} } }
